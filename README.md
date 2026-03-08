@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Bisma
 
-🎨 Arts graduate exploring the world of **Modern Web & App Development*.  
+🎨 Arts graduate exploring the world of "Modern Web & App Development".  
 💻 I’ve completed HTML, CSS, JavaScript, and Bootstrap, and will soon dive into "backend development" as part of a complete web development course.  
 
 🚀 I enjoy building websites and apps, sharing my projects, and learning by doing. 
