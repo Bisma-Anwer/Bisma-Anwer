@@ -6,8 +6,8 @@
 🚀 I enjoy building websites and apps, sharing my projects, and learning by doing. 
 
 ### 🌟 Skills & Technologies
-- Frontend: HTML, CSS, JavaScript, Bootstrap  
-- Version Control: Git & GitHub  
+- Frontend: HTML, CSS, JavaScript, Bootstrap.  
+- Version Control: Git & GitHub.  
 - Coming Soon: Backend Development (Node.js, Databases, APIs, etc.)  
 
 📂 On GitHub, you can find my "practice projects, assignments, and small apps" that reflect my learning journey.  
